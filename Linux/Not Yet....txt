@@ -1,0 +1,6 @@
+Linux and MacOS releases for some versions haven't been made due to it being annoying to make and not worth it yet.
+
+Included versions (Only on Windows) :
+- a0.1.0
+
+Some releases will be some day on both MacOS and Linux.
